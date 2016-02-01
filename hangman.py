@@ -1,4 +1,4 @@
-#Desc : Popular Hangman Game Using Python.(Developed for EDx course assignment.)
+#Desc : Popular Hangman Game Using Python.
 #Author : Savan Visalpara
 
 import random
